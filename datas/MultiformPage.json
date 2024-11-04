@@ -1,0 +1,12 @@
+{
+    "multiFormPageUrl"      : "https://www.globalsqa.com/angularJs-protractor/Multiform/#/form/profile",
+    "name"                  : "QA",
+    "email"                 : "QA_test@gmail.com",  
+
+    "questionConsole"       : "What's Your Console of Choice?",
+    "xboxChoice"            : "I like XBOX",
+    "PS4Choice"             : "I like PS4",
+
+    "paymentThanksMessage"  : "Thanks For Your Money!",     
+    "alertMessage"          : "awesome!"
+}
